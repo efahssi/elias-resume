@@ -24,7 +24,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
+        name = "Elias Fahssi"
         tagline = "Senior Software Engineer"
         avatar = "avatar.png"
 
