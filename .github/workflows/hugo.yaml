@@ -46,7 +46,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
         with:
-          repo-token: ${{ secrets.PAT }}
+          token: ${{ secrets.PAT }}
 
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
