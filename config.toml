@@ -2,7 +2,7 @@
 
 baseURL = "https://elias.fahssi.ca/resume/"
 languageCode = "en"
-title = ""
+title = "Elias' Resume"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Calgary"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
