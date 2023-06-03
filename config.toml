@@ -180,7 +180,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "8+ years of experience in B2B product marketing, strategy, and go-to-market. Educator at heart who loves training, enablement, and getting people where they want to go. Strong industry experience in construction, architecture and design, manufacturing, and design software. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and customer-first lens."
+        text = "8+ years of experience in B2B product marketing, strategy, and go-to-market. Educator at heart who loves training, enablement, and getting people where they want to go. Strong industry experience in construction, architecture and design, manufacturing, and design software. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a customer-first lens."
 
 
 
@@ -198,7 +198,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "DIRTT"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
         [[params.experience.list.items]]
-        details = "Implemented a tiered release framework and launch process for new products."
+        details = "Implemented a tiered product release framework and commercial launch process"
         [[params.experience.list.items]]
         details = "Partnered with teams across the organization to develop commercial priorities (OKRs)."
         [[params.experience.list.items]]
@@ -208,7 +208,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Program Lead, Strategic Marketing"
         dates = "2021 - 2022"
         company = "DIRTT"
-        details = "This program ran in parallel with a brand refresh, and focused on positioning DIRTT as a full solution for interior construction. We ran 2 themed-campaigns focused on our Healthcare and Commercial segments, and built evergreen sales tools to reinforce cross-sell and full scope projects. I had budget ownership and coordinated with subject matter teams to support strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
+        details = "This program supported a brand refresh, and focused on positioning the company as the category leader for industrialized construction. We ran 2 themed-campaigns targeting Healthcare and Commercial segments, and built evergreen sales tools to support cross-selling. I had budget ownership and coordinated with subject matter teams to support strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
         [[params.experience.list.items]]
         details = "Refreshed the CEU program and launched a new course with industry partner Thinklab."
         [[params.experience.list.items]]
@@ -253,7 +253,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Coordinator, Shipping"
         dates = "2013 - 2014"
         company = "DIRTT"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "Worked with factory production teams to ship "
         [[params.experience.list.items]]
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
 
@@ -271,19 +271,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title = "Collaborator, Phoenix Rising Engagement Series"
+        meta = "Mount Royal University"
+        tagline = "Public engagements celebrating research and teaching in the Humanities, Social Sciences, and Creative Arts. "
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "Researcher, The Cotton Nero A.x. Project"
+        meta = "University of Calgary & British Library"
+        tagline = "Multi-disciplinary project focused on photographing, transcribing, editing, and publishing 4 poems from a hand-written Middle English manuscript."
 
-        [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+     
 
 
 
@@ -308,7 +305,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Soccer, Skiing, Reading, Travelling, Stationery, Puzzles"
+        details = "Soccer, Skiing, Reading, Stationery, Puzzles"
 
 
 
