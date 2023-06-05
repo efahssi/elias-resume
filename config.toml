@@ -61,7 +61,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "Revenue"
         [[params.skills.list.items]]
         details = "GTM strategy and positioning for new products"
         [[params.skills.list.items]]
@@ -180,7 +180,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "8+ years of experience in B2B product marketing, strategy, and go-to-market. Educator at heart who loves training, enablement, and getting people where they want to go. Strong industry experience in construction, architecture and design, manufacturing, and design software. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a customer-first lens."
+        text = "8+ years experience in marketing, product strategy, and go-to-market. Educator at heart who loves training, enablement, and getting people and teams from start to finish. Strong industry experience in design, construction, architecture, and manufacturing. Research interests in digital teaching and learning, editorial theory, and the history of communiocation. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a customer-first lens."
 
 
 
@@ -196,7 +196,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Manager, GTM Strategy"
         dates = "2022 - 2023"
         company = "DIRTT"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        details = "Led a market-based strategy focused on sales win rate, increasing project scope, establishing key national accounts, and developing partner channel distribution. I owned the pragmatic marketing cycle from strategy through execution, with a priority on distinctive competencies, buyer and user personas, use scenarios, launch plans, presentations, and event support."
         [[params.experience.list.items]]
         details = "Implemented a tiered product release framework and commercial launch process"
         [[params.experience.list.items]]
@@ -220,44 +220,50 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Strategist, Product Marketing"
         dates = "2019 - 2021"
         company = "DIRTT"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "After being a product expert focused on sales and project management, this role shifted to business priorities and corporate strategy. I owned the product marketing for 2 portfolios: Casework and Timber Frame, while also driving positioning and messaging for architectural walls and doors."
         [[params.experience.list.items]]
         details = "Led the product launch for Inspire, the company's newest glass wall system, targeted for the commercial segment and design-forward architects."
         [[params.experience.list.items]]
         details = "Executed a renaming and soft relaunch of the cabinet portfolio to capitalize on a new industry standard and changing market perceptions around customization."
         [[params.experience.list.items]]
-        details = "Delivered regular rep and partner onboarding, 1:1 training, and participated as a SME on sales and project calls."       
+        details = "Delivered regular sales and channel onboarding, 1:1 training, and participated as a SME on sales and project calls."       
 
 
         [[params.experience.list]]
         title = "Product Expert, Timber Frame"
         dates = "2015 - 2019"
         company = "DIRTT"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "I joined the newly formed Timber Frame team in what felt like a start-up within an existing business. I led the market introduction, and established the initial product architecture, roadmap, and sales strategy. This crash course on construction, carpentry, and the history of wood gave me first-hand experience developing business and supporting sales and client teams." 
         [[params.experience.list.items]]
-        details = "Lead the market introduction of a new business line and acted as expert and single point of contact."    
+        details = "Led the market introduction of a new business line and acted as expert and single point of contact for sales demos, special calls, and promotional events."
         [[params.experience.list.items]]
         details = "Developed core operations principles and procedures, such as pricing and quoting, phases of design, CAD drawing standards, and project delivery." 
         [[params.experience.list.items]]
         details = "Delivered hundreds of on-site client tours of our manufacturing facility and design experience centre." 
 
         [[params.experience.list]]
-        title = "Specialist Government Contracts"
+        title = "Specialist, Government Contracts"
         dates = "2014 - 2015"
         company = "DIRTT"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "I assisted Finance and the Government sales team with information management, contract operations, and project support."
         [[params.experience.list.items]]
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit."   
+        details = "Successfully prepared and passed an audit by the Government Services Administration (GSA)" 
+        [[params.experience.list.items]]
+        details = "Created a quick start guide and contract term resource page on the internal knowledge base."
+        [[params.experience.list.items]]
+        details = "Member of strategic account project team. Provided contract terms, procurement narrative, and project delivery content for sales proposals."    
 
         [[params.experience.list]]
         title = "Coordinator, Shipping"
         dates = "2013 - 2014"
         company = "DIRTT"
-        details = "Worked with factory production teams to ship "
+        details = "Worked on the factory floor to schedule and ship product delivery across North America (and a few times overseas). Strong organizational skills and attention to detail, with a new appreciation for logistics and supply chain."
         [[params.experience.list.items]]
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
-
-
+        details = "Planned profitable and on-time trucking routes based on project budget and product mix."
+        [[params.experience.list.items]]
+        details = "Represented the shipping team on production calls and project meetings"
+        [[params.experience.list.items]]
+        details = "Wrote SOPs and created templates to improve production staff efficiency and onboarding."
 
 
 
