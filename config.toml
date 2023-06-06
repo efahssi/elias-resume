@@ -88,7 +88,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Good time management"
 
-
+        [[params.skills.list]]
+        title = "Tools"
+        [[params.skills.list.items]]
+        details = "PowerBI and SQL "
+        [[params.skills.list.items]]
+        details = "Miro"
+        [[params.skills.list.items]]
+        details = "ChatGPT 4"
+        [[params.skills.list.items]]
+        details = "Figma and Photoshop"
 
 
 
@@ -180,7 +189,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "8+ years experience in marketing, product strategy, and go-to-market. Educator at heart who loves training, enablement, and getting people and teams from start to finish. Strong industry experience in design, construction, architecture, and manufacturing. Research interests in digital teaching and learning, editorial theory, and the history of communiocation. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a customer-first lens."
+        text = "8+ years experience building sales and marketing strategies that win. Educator at heart who loves training, enablement, and getting people and teams from start to finish. Strong industry experience in design, construction, architecture, and manufacturing. Connected to the arts and humanities with research interests in digital teaching and learning, book history, and manuscript studies. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a customer-first lens."
 
 
 
@@ -196,25 +205,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Manager, GTM Strategy"
         dates = "2022 - 2023"
         company = "DIRTT"
-        details = "Led a market-based strategy focused on sales win rate, increasing project scope, establishing key national accounts, and developing partner channel distribution. I owned the pragmatic marketing cycle from strategy through execution, with a priority on distinctive competencies, buyer and user personas, use scenarios, launch plans, presentations, and event support."
+        details = "Built a commercial and operations GTM strategy that increased win rate and project scope, established enterprise accounts, and developed partner skills. I owned strategy through to execution, and exceeded growth targets by focusing on distinctive competencies, buyer and user personas, and product use scenarios. Responsible for product launch plans, presentations, and event support."
         [[params.experience.list.items]]
-        details = "Implemented a tiered product release framework and commercial launch process"
+        details = "Implemented a tiered launch framework and new product introduction process across 5 business units."
         [[params.experience.list.items]]
-        details = "Partnered with teams across the organization to develop commercial priorities (OKRs)."
+        details = "Partnered with commercial and operations teams to discover and develop 2023 business priorities (OKRs). Drove the engagement strategy and led group workshops to build tactical plans."
         [[params.experience.list.items]]
-        details = "Ran customer engagement initiatives and competitive intelligence to inform product strategy."
+        details = "Ran a continuous improvement process that used market intelligence to inform product strategy and roadmaps."
 
         [[params.experience.list]]
         title = "Program Lead, Strategic Marketing"
         dates = "2021 - 2022"
         company = "DIRTT"
-        details = "This program supported a brand refresh, and focused on positioning the company as the category leader for industrialized construction. We ran 2 themed-campaigns targeting Healthcare and Commercial segments, and built evergreen sales tools to support cross-selling. I had budget ownership and coordinated with subject matter teams to support strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
+        details = "This program supported a brand refresh, and focused on positioning the company as the category leader for industrialized construction. We ran 2 themed-campaigns targeting Healthcare and Commercial segments, and built evergreen sales tools to support cross-selling. I had budget ownership and coordinated with subject matter teams to lead strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
         [[params.experience.list.items]]
         details = "Refreshed the CEU program and launched a new course with industry partner Thinklab."
         [[params.experience.list.items]]
-        details = "Programmed case studies and project profiles to amplify campaign themes."
+        details = "Programmed 5 case studies and 10+ project profiles to amplify campaign themes."
         [[params.experience.list.items]]
-        details = "Wrote internal and external \"points-of-view\" on products and market segments."
+        details = "Wrote internal and external \"points-of-view\" on 4 product portfolios and 3 market segments."
 
         [[params.experience.list]]
         title = "Strategist, Product Marketing"
@@ -224,7 +233,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Led the product launch for Inspire, the company's newest glass wall system, targeted for the commercial segment and design-forward architects."
         [[params.experience.list.items]]
-        details = "Executed a renaming and soft relaunch of the cabinet portfolio to capitalize on a new industry standard and changing market perceptions around customization."
+        details = "Renamed and relaunched the Casework portfolio to capitalize on a new industry standard and changing market perceptions around customization."
         [[params.experience.list.items]]
         details = "Delivered regular sales and channel onboarding, 1:1 training, and participated as a SME on sales and project calls."       
 
@@ -261,9 +270,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Planned profitable and on-time trucking routes based on project budget and product mix."
         [[params.experience.list.items]]
-        details = "Represented the shipping team on production calls and project meetings"
+        details = "Represented the shipping team on production calls and project meetings."
         [[params.experience.list.items]]
-        details = "Wrote SOPs and created templates to improve production staff efficiency and onboarding."
+        details = "Wrote SOPs and created templates that improved production floor efficiency and onboarding."
 
 
 
