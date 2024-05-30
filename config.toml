@@ -261,7 +261,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Product Expert, Timber Frame"
         dates = "2015 - 2019"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "I joined the newly formed Timber Frame team in what felt like a start-up within an existing business. I led the market introduction, and established the initial product architecture, roadmap, and sales strategy. This crash course on construction, carpentry, and the history of wood gave me first-hand experience developing business and supporting sales and client teams." 
         [[params.experience.list.items]]
         details = "Led the market introduction of a new business line and acted as expert and single point of contact for sales demos, special calls, and promotional events."
