@@ -212,8 +212,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Product Development Strategist"
         dates = "2023 - 2024"
-        company = "<a href='http://www.wbm.ca/'>WBM Technologies</a>"
-        details = "Established the Product Strategy and Go-to-Market function for a <a href='https://www.wbm.ca/news/awards/'> leading</a> Managed Service Provider. I joined a newly formed Enablement team to own product launches, sales enablement, and strategic marketing. We used productization and account-based marketing to grow IT services from custom built, one-off projects to scalable and repeatable products. Facilitated workshops, retrospectives, and cross-functional standups, along with sales presentations, pipeline updates to leadership, and all product-related internal comms. "
+        company = "WBM Technologies"
+        details = "Established the Product Strategy and Go-to-Market function for a Microsoft-focused Managed Service Provider. I joined a newly formed Enablement team to own product launches, sales enablement, and strategic marketing. We used productization and account-based marketing to grow IT services from custom built, one-off projects to scalable and repeatable products. Facilitated workshops, retrospectives, and cross-functional standups, along with sales presentations, pipeline updates to leadership, and all product-related internal comms. "
         [[params.experience.list.items]]
         details = "Led the re-launch of a tech-enabled meeting room service that saw 4X pipeline growth, 3 new customer case studies, and 12% new margin contribution."
         [[params.experience.list.items]]
@@ -224,7 +224,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Manager, GTM Strategy"
         dates = "2022 - 2023"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "Built a commercial GTM strategy that increased win rate and project scope, established a repeatable product launch process, and developed core positioning and messaging. I owned strategy through to execution, and exceeded growth targets by focusing on distinctive competencies, buyer and user personas, and competitive intelligence. Responsible for product launch plans, presentations, and event support."
         [[params.experience.list.items]]
         details = "Implemented a tiered launch framework and new product introduction process across design, engineering, and commercial operations"
@@ -236,7 +236,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Program Lead, Strategic Marketing"
         dates = "2021 - 2022"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "This program supported a brand refresh, and focused on positioning the company as the category leader for industrialized construction. We ran 2 themed-campaigns targeting Healthcare and Commercial segments, and built evergreen sales tools to support cross-selling. I had budget ownership and coordinated with subject matter teams to lead strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
         [[params.experience.list.items]]
         details = "Refreshed the CEU program and launched a new course with industry partner Thinklab."
@@ -248,7 +248,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Strategist, Product Marketing"
         dates = "2019 - 2021"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "After being a product expert focused on sales and project management, this role shifted to business priorities and corporate strategy. I owned the product marketing for 2 portfolios: Casework and Timber Frame, while also driving positioning and messaging for architectural walls and doors."
         [[params.experience.list.items]]
         details = "Led the product launch for Inspire, the company's newest glass wall system, targeted for the commercial segment and design-forward architects."
@@ -273,7 +273,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Specialist, Government Contracts"
         dates = "2014 - 2015"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "I assisted Finance and the Government sales team with information management, contract operations, and project support."
         [[params.experience.list.items]]
         details = "Successfully prepared and passed an audit by the Government Services Administration (GSA)" 
@@ -285,7 +285,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Coordinator, Shipping"
         dates = "2013 - 2014"
-        company = "<a href='http://dirtt.com/'>DIRTT</a>"
+        company = "DIRTT"
         details = "Worked on the factory floor to schedule and ship product delivery across North America (and a few times overseas). Strong organizational skills and attention to detail, with a new appreciation for logistics and supply chain."
         [[params.experience.list.items]]
         details = "Planned profitable and on-time trucking routes based on project budget and product mix."
