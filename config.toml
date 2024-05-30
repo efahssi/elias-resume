@@ -311,7 +311,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "Public engagements celebrating research and teaching in the Humanities, Social Sciences, and Creative Arts. "
 
         [[params.projects.list]]
-        title = "Researcher, <a href='https://digitalcollections.ucalgary.ca/Browse/Collections/Gawain-Manuscript/'>The Cotton Nero A.x. Project</a>"
+        title = "Researcher, The Cotton Nero A.x. Project"
         meta = "University of Calgary & British Library"
         tagline = "Multi-disciplinary project focused on photographing, transcribing, editing, and publishing 4 poems from a hand-written Middle English manuscript."
 
