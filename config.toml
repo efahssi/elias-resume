@@ -24,7 +24,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Elias Fahssiii"
+        name = "Elias Fahssi"
         tagline = "Product Marketing + GTM Strategy"
         avatar = "avatar.png"
 
@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Calgary, Alberta, Canada"
+        location = "Edmonton, Alberta, Canada"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
