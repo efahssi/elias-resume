@@ -71,11 +71,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Sales enablement"
         [[params.skills.list.items]]
-        details = "Channel management and rep engagement"
+        details = "Customer interviews and continuous discovery"
         [[params.skills.list.items]]
         details = "Segmentation and personas"
-        [[params.skills.list.items]]
-        details = "User interviews"
 
         [[params.skills.list]]
         title = "Professional"
@@ -95,7 +93,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Miro"
         [[params.skills.list.items]]
-        details = "ChatGPT 4"
+        details = "AI Prompting"
         [[params.skills.list.items]]
         details = "Figma and Photoshop"
 
@@ -197,7 +195,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "8+ years experience building sales and marketing strategies that win. Educator at heart who loves training, enablement, and getting people and teams from start to finish. Strong industry experience in design, construction, architecture, and manufacturing. Connected to the arts and humanities with research interests in digital teaching and learning, book history, and manuscript studies. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a client-first lens."
+        text = "8+ years experience building product and marketing strategies that win. Educator at heart who loves training, enablement, and getting people and teams from start to finish. Strong industry experience in design, construction, architecture, and manufacturing. Connected to the arts and humanities with research interests in digital teaching and learning, book history, and manuscript studies. Curious and collaborative leader confident building from the ground up. Track record of elevating commercial teams through creativity, research, and a client-first lens."
 
 
 
@@ -213,11 +211,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Product Development Strategist"
         dates = "2023 - 2024"
         company = "WBM Technologies"
-        details = "Established the Product Strategy and Go-to-Market function for a Microsoft-focused Managed Service Provider. I joined a newly formed Enablement team to own product launches, sales enablement, and strategic marketing. We used productization and account-based marketing to grow IT services from custom built, one-off projects to scalable and repeatable products. Facilitated workshops, retrospectives, and cross-functional standups, along with sales presentations, pipeline updates to leadership, and all product-related internal comms. "
+        details = "Established the Product Management and Go-to-Market function for a Microsoft-focused Managed Service Provider. I joined a newly formed Enablement team to own product launches, sales enablement, and strategic marketing. We used productization and account-based marketing to grow IT services from custom built, one-off projects to scalable and repeatable products. Facilitated workshops, retrospectives, and cross-functional standups, along with sales presentations, pipeline updates to leadership, and all product-related internal comms. "
         [[params.experience.list.items]]
         details = "Led the re-launch of a tech-enabled meeting room service that saw 4X pipeline growth, 3 new customer case studies, and 12% new margin contribution."
         [[params.experience.list.items]]
-        details = "Ran post-launch marketing and enablement programs focused on training, sales tools, and digital content."
+        details = "Ran post-launch marketing and enablement campaigns focused on training, sales tools, and digital content."
         [[params.experience.list.items]]
         details = "Designed and launched internal tools for customer journey mapping, discovery interviews, and roadmap planning."
 
@@ -231,7 +229,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Partnered with commercial and operations teams to discover and develop 2023 business priorities (OKRs). Drove the engagement strategy and led group workshops to build tactical plans."
         [[params.experience.list.items]]
-        details = "Ran a continuous improvement process that used market intelligence to inform product strategy and roadmaps."
+        details = "Ran a continuous discovery process that used market intelligence to inform product strategy and roadmaps."
 
         [[params.experience.list]]
         title = "Program Lead, Strategic Marketing"
