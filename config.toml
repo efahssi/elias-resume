@@ -232,7 +232,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Ran a continuous discovery process that used market intelligence to inform product strategy and roadmaps."
 
         [[params.experience.list]]
-        title = "Program Lead, Strategic Marketing"
+        title = "Program Manager, Strategic Marketing"
         dates = "2021 - 2022"
         company = "DIRTT"
         details = "This program supported a brand refresh, and focused on positioning the company as the category leader for industrialized construction. We ran 2 themed-campaigns targeting Healthcare and Commercial segments, and built evergreen sales tools to support cross-selling. I had budget ownership and coordinated with subject matter teams to lead strategic initiatives around conferences, events, and speaking opportunities. The highlight was launching a new public website and presenting new sales training to our rep and partner teams across North America. "
@@ -244,7 +244,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Wrote internal and external \"points-of-view\" on 4 product portfolios and 3 market segments."
 
         [[params.experience.list]]
-        title = "Strategist, Product Marketing"
+        title = "Product Marketing Manager"
         dates = "2019 - 2021"
         company = "DIRTT"
         details = "After being a product expert focused on sales and project management, this role shifted to business priorities and corporate strategy. I owned the product marketing for 2 portfolios: Casework and Timber Frame, while also driving positioning and messaging for architectural walls and doors."
@@ -257,7 +257,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [[params.experience.list]]
-        title = "Product Expert, Timber Frame"
+        title = "Product Manager, Timber Frame"
         dates = "2015 - 2019"
         company = "DIRTT"
         details = "I joined the newly formed Timber Frame team in what felt like a start-up within an existing business. I led the market introduction, and established the initial product architecture, roadmap, and sales strategy. This crash course on construction, carpentry, and the history of wood gave me first-hand experience developing business and supporting sales and client teams." 
